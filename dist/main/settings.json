@@ -1,0 +1,13 @@
+{
+	"address_SSNTI": "http://172.16.22.11/",
+	"addressClientSSNTI": "http://172.16.22.11:5010/",
+	"token": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy5kaXZpc2lvbnoucnUvYXBpL2lkZW50aXR5L2NsYWltcy9zeXNhZG1pbiI6IlRydWUiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoic3lzdGVtIiwibmJmIjoxNjY5NjE3NDE5LCJleHAiOjE2Njk2Nzc0NzksImlzcyI6IkRpdmlzaW9ueiIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6NTkzOTIifQ.gzQpF_DhAW27DfibzU0_OJ2qDEU0N8BvHnR6yNtwop3C4oW-6DxiYkMI4N3HpJwFG_YjxXfKSBZ_hQn7Xde8mnqQAISt9RckMuwcfnn_mw5ayxhBLwBZ5Ra3WV8Po1p-5hCCnehU2PgjqFj6b1ZQZYbIfKQk0Usye5Wcs6GyWOelVgU6zhFgaGRRMflyOu1TYzyDG1Rk52RwTJvhICCs_GwvJlr2MJd1jYd0MtPz1Ma2A3ta5op2I51H41vLFN2vGkUl3modGcaD9iob_xTjP1QHjvSRAceuaHKmLXIdAx-u52W0hnqPMs1jYYhAaFyly9NayImWsnNd6BYvwd-9jg",
+	"current_dir": "C:\\Oscill\\current_dir\\",
+	"clients": [
+		{
+			"client_name": "test_convert_client",
+			"id": "a958c651-b86c-ed11-a7b1-00155d0ac003",
+			"directory": "C:\\Oscill\\test_convert\\"
+		}
+	]
+}
